@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+""" empty class function that defines a Rectangle
+"""
+
 '''
 File_name: 0-rectangle.py
 Created: 5-OCT-2023
