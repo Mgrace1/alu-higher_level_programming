@@ -9,6 +9,7 @@ Project: 0x08-python-more_classes
 Status: Not yet submitted.
 '''
 
+
 class Rectangle:
     """Represent a rectangle."""
 
@@ -72,7 +73,6 @@ class Rectangle:
             if i != self.__height - 1:
                 rect.append("\n")
         return ("".join(rect))
-
 
     def __repr__(self):
         """Return the string representation of the Rectangle."""
