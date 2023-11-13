@@ -125,4 +125,3 @@ class Rectangle:
         ...to indicate that the instance is been Deleted."""
         print('Bye rectangle...')
         Rectangle.number_of_instances -= 1
-        e
