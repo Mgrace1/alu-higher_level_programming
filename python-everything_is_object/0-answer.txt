@@ -1,5 +1,1 @@
-#!/usr/bin/python3
-
-# Print the word "type" with the specified length
-print("type")
-
+type
