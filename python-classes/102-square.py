@@ -13,7 +13,7 @@ class Square:
 
     @property
     def size(self):
-        """"The propery of size as thelength 
+        """"The propery of size asthe length 
         of a side of Square
         Raises:
             TypeError: if size != int
