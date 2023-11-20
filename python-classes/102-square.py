@@ -6,7 +6,7 @@ class Square:
     """square body"""
 
     def __init__(self, size=0):
-        """square co ntructor 
+        """square co:%s/\s\+$//e ntructor 
         Args: size: length of a side of Square
         """
         self.__size = size
