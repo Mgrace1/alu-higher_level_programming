@@ -6,14 +6,14 @@ class Square:
     """square body"""
 
     def __init__(self, size=0):
-        """square co:%s/\s\+$//e ntructor 
+        """square co:%s/\s\+$//e ntructor
         Args: size: length of a side of Square
         """
         self.__size = size
 
     @property
     def size(self):
-        """"The propery of size as the length 
+        """"The propery of size as the length
         of a side of Square
         Raises:
             TypeError: if size != int
