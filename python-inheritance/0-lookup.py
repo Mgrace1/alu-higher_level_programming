@@ -4,4 +4,4 @@
 
 def lookup(obj):
     '''return object atts and methods'''
-    return list(dir(obj
+    return list(dir(obj))
